@@ -36,7 +36,7 @@
     "openpgp": "^4.6.2",
     "rword": "^3.1.1",
     "sender-rewriting-scheme": "^1.0.0",
-    "smtp-server": "^3.5.0",
+    "smtp-server": "^3.8.0",
     "uuid": "^3.3.3"
   },
   "devDependencies": {
