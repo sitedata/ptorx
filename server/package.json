@@ -31,7 +31,7 @@
     "mailparser": "^2.7.1",
     "moment": "^2.24.0",
     "mysql": "^2.17.1",
-    "node-forge": "^0.9.1",
+    "node-forge": "^1.0.0",
     "nodemailer": "^6.3.0",
     "openpgp": "^4.6.2",
     "rword": "^3.1.1",
